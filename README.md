@@ -5,10 +5,10 @@
 
 I am **Ibrahim Besli**. I am an Experienced **Software Development Engineer in Test** from **Germany**.
 Detail-oriented **Test Engineer** with **over 2.5+ years** of experience and a comprehensive technical knowledge of 
-flaw identification in Software Web Applications. I graduated from **University of Science Antalya** and **Elektrik and electronic engineering **.
+flaw identification in Software Web Applications. I graduated from **University of Science Antalya** and **Electrical Electronics Engineer **.
 
 - 🔭 I’m currently working as **Software Test Engineer**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, WebdriverIO**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Testing**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ibrahimhalilbesli/)**    
